@@ -1,39 +1,16 @@
-![001](./img/001.jpg)
+### Hi there 👋
 
-![002](./img/002.jpg)
+<!--
+**noh1216/noh1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![003](./img/003.jpg)
+Here are some ideas to get you started:
 
-![004](./img/004.jpg)
-
-![005](./img/005.jpg)
-
-![006](./img/006.jpg)
-
-![007](./img/007.jpg)
-
-![008](./img/008.jpg)
-
-![009](./img/009.jpg)
-
-![010](./img/010.jpg)
-
-![011](./img/011.jpg)
-
-![012](./img/012.jpg)
-
-![013](./img/013.jpg)
-
-![014](./img/014.jpg)
-
-![015](./img/015.jpg)
-
-![016](./img/016.jpg)
-
-![017](./img/017.jpg)
-
-![018](./img/018.jpg)
-
-![019](./img/019.jpg)
-
-![019](./img/020.jpg)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
