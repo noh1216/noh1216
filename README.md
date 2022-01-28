@@ -30,6 +30,7 @@ I enjoy guitar, cooking and developing website or C++ console programs 🖳🎸
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++        1 hr 22 mins    ██████████████████████▓░░   90.42 % 
+Markdown   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 <!--END_SECTION:waka-->
