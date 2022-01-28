@@ -24,12 +24,8 @@ I enjoy guitar, cooking and developing website or C++ console programs 🖳🎸
 ## <\/BAEKJOON>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=noh1216)](https://solved.ac/noh1216/)
 
-<<<<<<< HEAD
- 
-=======
 ## Github Stats
 ![noh1216](https://github-readme-stats.vercel.app/api?username=noh1216&show_icons=true)
 [![noh1216](https://github-readme-stats.vercel.app/api/top-langs/?username=noh1216&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/noh1216)
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
->>>>>>> 3ab4a377ce40a9dc8786a82dfa46c2d9b28cf69b
