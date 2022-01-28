@@ -29,4 +29,7 @@ I enjoy guitar, cooking and developing website or C++ console programs 🖳🎸
 [![noh1216](https://github-readme-stats.vercel.app/api/top-langs/?username=noh1216&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/noh1216)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
