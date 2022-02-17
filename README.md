@@ -30,9 +30,6 @@ I enjoy guitar, cooking and developing website or C++ console programs 🖳🎸
 
 <!--START_SECTION:waka-->
 ```text
-Total: 44 mins
-
-Rust   42 mins         ████████████████████████░   96.58 % 
-TOML   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
