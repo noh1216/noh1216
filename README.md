@@ -30,6 +30,6 @@ I enjoy guitar, cooking and developing website or C++ console programs 🖳🎸
 
 <!--START_SECTION:waka-->
 ```text
-Rust    9 mins          ████████████████████████▓   99.05 % 
+Rust    21 mins         ████████████████████████▒   96.90 % 
 ```
 <!--END_SECTION:waka-->
