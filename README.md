@@ -6,9 +6,9 @@
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/noh12161216@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 👋Hello! I am a <strong>college student</strong> in the software department.🎓<br>
-I often use the C++ and Javascript language, Recently I am interested in openCV.😃
+I often use the C++ and Javascript language, Recently I am interested in rust programing language.😃
 <br><br>
-I enjoy guitar, cooking and developing website or C++ console programs 🖳🎸
+I enjoy guitar, cooking and developing website or C++ console programs ♥️
 <br><br>
 ## 💪Skills 
 <strong>Plarforms & Languages</strong><br>
