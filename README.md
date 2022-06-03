@@ -31,11 +31,10 @@ I enjoy guitar, cooking and developing website or C++ console programs ♥️
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 41 mins    ██████████████▒░░░░░░░░░░   56.70 %
-JavaScript   46 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.03 %
-Markdown     14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-HTML         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-Pug          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Python       2 hrs 29 mins   ███████████████████▒░░░░░   76.78 %
+JavaScript   28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+HTML         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Pug          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
