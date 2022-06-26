@@ -33,6 +33,7 @@ I enjoy guitar, cooking and developing website or C++ console programs ♥️
 ```text
 HTML         1 hr 8 mins     █████████████████████████   99.81 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Rust         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
