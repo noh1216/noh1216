@@ -31,9 +31,9 @@ I enjoy guitar, cooking and developing website or C++ console programs ♥️
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   12 mins         █████████████████▒░░░░░░░   69.14 %
-JSON         5 mins          ███████▓░░░░░░░░░░░░░░░░░   30.05 %
-Pug          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+JavaScript   16 mins         ████████████████░░░░░░░░░   63.48 %
+JSON         9 mins          █████████░░░░░░░░░░░░░░░░   35.97 %
+Pug          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
