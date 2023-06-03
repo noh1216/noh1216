@@ -30,7 +30,7 @@ I enjoy guitar, cooking and developing website or C++ console programs ♥️
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
