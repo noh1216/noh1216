@@ -1,4 +1,4 @@
-### NpsCause Info
+### Junah Noh Info
 
 <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
